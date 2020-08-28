@@ -13,7 +13,7 @@ On this Github repo, navigate to the lab folder you want to run (`lab1`, `lab2`,
 Now, to run the labs, open the Jupyter notebook on Colab. Navigate to the "Runtime" tab --> "Change runtime type". In the pop-up window, under "Runtime type" select "Python 3", and under "Hardware accelerator" select "GPU". Go through the notebooks and fill in the `#TODO` cells to get the code to compile for yourself!
 
 
-### MIT Deep Learning package
+### MIT Deep Learning packagex`
 You might notice that inside the labs we install the `mitdeeplearning` python package from the Python Package repository:
 
 `pip install mitdeeplearning`
